@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "All-in-One Launcher",
+  "version": "1.0.0",
+  "description": "Quick Launch all your social media accounts",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
